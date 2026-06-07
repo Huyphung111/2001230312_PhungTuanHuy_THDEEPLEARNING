@@ -1,6 +1,6 @@
 TÊN:Phùng Tuấn Huy
 MSSV: 2001230312
-TIỀN XỬ LÝ DỮ LIỆU – TITANIC DATASET
+TIỀN XỬ LÝ DỮ LIỆU – TITANIC DATASETt
 
 1. Tải dữ liệuu
 Sử dụng thư viện Pandas để đọc dữ liệu từ file CSV vào DataFrame.  
